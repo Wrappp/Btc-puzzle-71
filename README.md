@@ -28,9 +28,7 @@ The total range is split into chunks of:
 Each client receives randomly assigned chunks from the server:
 Total 14,895,626,675 chunks per client
 After completing a chunk, the client reports back to the server with:
-chunk_id
-completion date & time
-client_id
+_chunk_id, completion date & time, client_id_
 
 **Match Handling**
 When a private key matching Puzzle 71 is found:
@@ -38,7 +36,10 @@ The server immediately stops all active clients
 The result is saved to disk
 An email notification can be sent automatically
 
+**Design Philosophy**
+This project does not aim to provide a fancy or visually impressive interface.  
+Instead, it focuses on being a **minimalistic, powerful search engine**, optimized for speed, scalability, and distributed GPU computation.
+
 **Use Case**
-This project is intended for:
-Research and experimentation with GPU-accelerated cryptographic searches
+This project is intended for: Research and experimentation with GPU-accelerated cryptographic searches
 If you are interested email me
