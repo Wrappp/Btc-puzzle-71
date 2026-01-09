@@ -45,6 +45,7 @@ If you are interested email me
 
 **Performance**\
 RTX 3080 Ti **273Mkey/sec**\
+RTX 5070 **232Mkey/sec**\
 RTX 3070 **165Mkey/sec**\
 RTX 3060 Ti **188Mkey/sec**\
 RTX 3060 **82.5Mkey/sec**\
