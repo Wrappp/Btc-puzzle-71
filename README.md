@@ -43,3 +43,10 @@ Instead, it focuses on being a **minimalistic, powerful search engine**, optimiz
 **Use Case**
 This project is intended for: Research and experimentation with GPU-accelerated cryptographic searches
 If you are interested email me
+
+**Performance**
+RTX 3080 Ti 273Mkey/sec
+RTX 3070 165Mkey/sec
+RTX 3060 Ti 188Mkey/sec
+RTX 3060 82.5Mkey/sec
+Quadro P2000 7.3Mkey/sec
