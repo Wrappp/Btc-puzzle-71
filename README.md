@@ -50,4 +50,4 @@ RTX 3070 **250Mkey/sec** new optimization\
 RTX 3060 Ti **213Mkey/sec** new optimization\
 RTX 5060 **156Mkey/s** new optimization\
 RTX 3060 **87.7Mkey/sec** new optimization\
-Quadro P2000 **7.3Mkey/sec**
+Quadro P2000 **10.8Mkey/sec** new optimization
