@@ -44,9 +44,9 @@ This project is intended for: Research and experimentation with GPU-accelerated 
 If you are interested email me
 
 **Performance**\
-RTX 3080 Ti **273Mkey/sec**\
+RTX 3080 Ti **344Mkey/sec** new optimization\
 RTX 5070 **232Mkey/sec**\
-RTX 3070 **165Mkey/sec**\
-RTX 3060 Ti **188Mkey/sec**\
+RTX 3070 **250Mkey/sec** new optimization\
+RTX 3060 Ti **213Mkey/sec** new optimization\
 RTX 3060 **82.5Mkey/sec**\
 Quadro P2000 **7.3Mkey/sec**
