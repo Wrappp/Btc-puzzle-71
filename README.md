@@ -45,8 +45,9 @@ If you are interested email me
 
 **Performance**\
 RTX 3080 Ti **344Mkey/sec** new optimization\
-RTX 5070 **232Mkey/sec**\
+RTX 5070 **261Mkey/sec** new optimization\
 RTX 3070 **250Mkey/sec** new optimization\
 RTX 3060 Ti **213Mkey/sec** new optimization\
-RTX 3060 **82.5Mkey/sec**\
+RTX 5060 **156Mkey/s** new optimization\
+RTX 3060 **87.7Mkey/sec** new optimization\
 Quadro P2000 **7.3Mkey/sec**
